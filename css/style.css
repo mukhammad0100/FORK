@@ -53,3 +53,32 @@ header {
 }
 
 /* header end */
+
+/* section start */
+
+.mukhammad {
+  background: dodgerblue;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-size: 60px;
+  color: #fff;
+}
+
+.title__two {
+  font-size: 40px;
+  color: #fff;
+}
+
+.main__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+/* section end */
